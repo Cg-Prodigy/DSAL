@@ -1,6 +1,6 @@
 # Ego kipkemei Brian
 # Dec - 6th - 2022
-# Dijkrista Algorithm
+# Dijkstra Algorithm
 
 def algorithm(start,end,path:dict):
     unvisited=[key for key in path.keys()]
